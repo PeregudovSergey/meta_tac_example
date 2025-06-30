@@ -1,7 +1,18 @@
 {
-  "name": "TON Smart Challenge #2 Winners Trophy",
-  "description": "TON Smart Challenge #2 Winners Trophy 1 place out of 181",
-  "image": "https://s.getgems.io/nft/b/c/62fba50217c3fe3cbaad9e7f/images/943e994f91227c3fdbccbc6d8635bfaab256fbb4",
-  "content_url": "https://s.getgems.io/nft/b/c/62fba50217c3fe3cbaad9e7f/content/84f7f698b337de3bfd1bc4a8118cdfd8226bbadf",
-  "attributes": []
+  "name": "TON NFT Tegro Dog",
+  "image": "https://s.getgems.io/nft/b/c/626a922e5e67c1f424154711/image.png",
+  "cover_image": "https://s.getgems.io/nft/b/c/626a922e5e67c1f424154711/cover.png",
+  "description": "TON NFT Tegro Dog is one of the first NFT projects on The Open Network blockchain. Dogs from the resistance, as a symbol of DEX, who fight for absolute freedom. The legendary collection released by the Tegro TON team with the support of the first marketplace Getgems",
+  "marketplace": "getgems.io",
+  "social_links": [
+    "https://tegro.money",
+    "https://youton.org",
+    "https://tegronftbot.com",
+    "https://twitter.com/nfttegrodog",
+    "https://vk.com/tonnftdog",
+    "https://discord.gg/Tz87r2gquN",
+    "https://t.me/tonnfttegrodog",
+    "https://instagram.com/nfttegrodog",
+    "https://youtube.com/channel/UCq3AOrdYh61iRwGzOv138Lw"
+  ]
 }
